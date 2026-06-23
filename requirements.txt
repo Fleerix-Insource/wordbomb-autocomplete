@@ -1,0 +1,7 @@
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4
+numpy>=1.24.0
+pyautogui>=0.9.54
+pytesseract>=0.3.10
+mss>=9.0.0
+Pillow>=10.0.0
